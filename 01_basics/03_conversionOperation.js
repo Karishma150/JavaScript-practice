@@ -45,3 +45,29 @@ let someNumber = 33;
 let stringNumber = String(someNumber)
 console.log(stringNumber); //33
 console.log(typeof stringNumber) //string; it looks like no. but is changed to string. 
+
+// ****************** Operations **********************
+let value = 3;
+let negValue = -value
+console.log(negValue) //-3
+//basic operations
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2); //power
+console.log(2%2); //remainder ; used in cryptography
+////
+let str1 = "hello"
+let str2 = " kannu"
+let str3 = str1 + str2;
+console.log(str3); //hello kannu
+//read the below conversion from => https://tc39.es/ecma262/#sec-type-conversion
+console.log("1" + 2); //12
+console.log(1 + "2"); //12
+console.log("1" + 2 + 2); //122
+console.log(1 + 2 + "2"); //32
+
+// prefix and postfix from MDN
+
+
+
