@@ -2,7 +2,7 @@
 
 //alert(4+6) // we are using nodejs not browser
 
-//console.log(2+3) console.log("kannu"); // error coz seicolon is expected here in between 
+//console.log(2+3) console.log("kannu"); // error coz semicolon is expected here in between 
                                        // Also the code readability is not high
 
 //tc39.es,MDN  to read about JS
